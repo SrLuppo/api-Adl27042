@@ -1,6 +1,3 @@
-# appmax-EG2022CH
-## Appmax challenge
-
 ### Especificações:
 ```
 PHP: 8.1.2
